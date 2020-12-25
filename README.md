@@ -1,6 +1,6 @@
 # Docker CD with Github Actions
 
-Docker Github Actions Starter
+<img src="https://github.com/theswerd/docker-githubactions/blob/main/action+docker.jpg?raw=true" height="300px"></img>
 
 ## Setup
 
